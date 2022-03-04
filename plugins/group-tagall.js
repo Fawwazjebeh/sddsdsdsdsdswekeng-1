@@ -11,6 +11,5 @@ handler.help = ['tagall']
 handler.tags = ['group']
 handler.admin = true
 handler.group = true
-handler.owner = true
 
 export default handler
