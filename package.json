@@ -19,6 +19,7 @@
     },
     "dependencies": {
         "@adiwajshing/baileys": "github:adiwajshing/baileys",
+        "pm2": "latest",
         "@bochilteam/scraper": "^1.0.2",
         "awesome-phonenumber": "^2.68.0",
         "axios": "^0.24.0",
